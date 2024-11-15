@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: autogram-is/goingresponsive # Path to your GitHub repository
   branch: netlify
 
 media_folder: '../_src/chapter/image'
