@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "",
   "scripts": {
+    "cms": "run-p cms-proxy start",
+    "cms-proxy": "decap-server",
     "start": "ELEVENTY_ENV=development npx eleventy --serve",
     "extract": "rimraf chapter/*.md && node ./util/processBook.mjs",
     "production": "eleventy"
