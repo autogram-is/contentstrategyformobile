@@ -1,10 +1,25 @@
 {
-  "color": "#bd302a",
-  "title": "JavaScript for Web Designers",
-  "creator": "Mat Marquis",
+  "color": "#3b7e9c",
+  "title": "Content Strategy for Mobile",
+  "creator": "Karen McGrane",
+  "contributor": [
+    "Jeffrey Zeldman",
+    "Jason Santa Maria",
+    "Mandy Brown",
+    "Krista Stevens",
+    "Rob Weychert",
+    "Sally Whiting",
+    "Nellie McKesson",
+    "India Amos"
+  ],
   "publisher": "A Book Apart",
-  "rights": "Copyright © 2016 Mat Marquis",
+  "rights": "Copyright © 2012 Karen McGrane. All rights reserved.",
+  "subject": [
+    "DESIGN / Graphic Arts / General",
+    "BUSINESS AND ECONOMICS / Industries / Media and Communications"
+  ],
   "language": "en-US",
-  "identifier": "isbn:978-1-937557-47-8",
-  "date": "2016-09-12T02:22:16Z"
+  "identifier": "urn:isbn:9781937557089",
+  "source": "http://abookapart.com/",
+  "date": "2012-10"
 }

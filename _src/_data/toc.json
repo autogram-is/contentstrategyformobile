@@ -1,86 +1,104 @@
 [
   {
-    "id": "navpoint14",
-    "playOrder": 14,
-    "navLabel": "Cover",
-    "content": "cover.xhtml"
-  },
-  {
     "id": "navpoint1",
     "playOrder": 1,
-    "navLabel": "Introduction",
-    "content": "js4wd_ebook-4.xhtml"
+    "navLabel": "Foreword",
+    "content": "foreword.xhtml"
   },
   {
     "id": "navpoint2",
     "playOrder": 2,
-    "navLabel": "Chapter 1. Getting Set Up",
-    "content": "js4wd_ebook-5.xhtml"
+    "navLabel": "Introduction",
+    "content": "introduction.xhtml"
   },
   {
     "id": "navpoint3",
     "playOrder": 3,
-    "navLabel": "Chapter 2. Understanding Data Types",
-    "content": "js4wd_ebook-6.xhtml"
-  },
-  {
-    "id": "navpoint4",
-    "playOrder": 4,
-    "navLabel": "Chapter 3. Conditional Statements",
-    "content": "js4wd_ebook-7.xhtml"
-  },
-  {
-    "id": "navpoint5",
-    "playOrder": 5,
-    "navLabel": "Chapter 4. Loops",
-    "content": "js4wd_ebook-8.xhtml"
-  },
-  {
-    "id": "navpoint6",
-    "playOrder": 6,
-    "navLabel": "Chapter 5. DOM Scripting",
-    "content": "js4wd_ebook-9.xhtml"
-  },
-  {
-    "id": "navpoint7",
-    "playOrder": 7,
-    "navLabel": "Conclusion",
-    "content": "js4wd_ebook-10.xhtml"
-  },
-  {
-    "id": "navpoint8",
-    "playOrder": 8,
-    "navLabel": "Resources",
-    "content": "js4wd_ebook-11.xhtml"
-  },
-  {
-    "id": "navpoint9",
-    "playOrder": 9,
-    "navLabel": "Acknowledgments",
-    "content": "js4wd_ebook-12.xhtml"
+    "navLabel": "Chapter 1: Your Content, Now Mobile",
+    "content": "chap01.xhtml"
   },
   {
     "id": "navpoint10",
     "playOrder": 10,
+    "navLabel": "Chapter 2: Content Before Platform",
+    "content": "chap02.xhtml"
+  },
+  {
+    "id": "navpoint16",
+    "playOrder": 16,
+    "navLabel": "Chapter 3: Adaptive Content",
+    "content": "chap03.xhtml"
+  },
+  {
+    "id": "navpoint25",
+    "playOrder": 25,
+    "navLabel": "Chapter 4: Strategy and Planning",
+    "content": "chap04.xhtml"
+  },
+  {
+    "id": "navpoint30",
+    "playOrder": 30,
+    "navLabel": "Chapter 5: Writing and Editing",
+    "content": "chap05.xhtml"
+  },
+  {
+    "id": "navpoint35",
+    "playOrder": 35,
+    "navLabel": "Chapter 6: Information Architecture",
+    "content": "chap06.xhtml"
+  },
+  {
+    "id": "navpoint43",
+    "playOrder": 43,
+    "navLabel": "Chapter 7: People and Process",
+    "content": "chap07.xhtml"
+  },
+  {
+    "id": "navpoint46",
+    "playOrder": 46,
+    "navLabel": "Conclusion: It Can Be Done",
+    "content": "conclusion.xhtml#toc_marker-40"
+  },
+  {
+    "id": "navpoint48",
+    "playOrder": 48,
+    "navLabel": "Resources",
+    "content": "resources.xhtml"
+  },
+  {
+    "id": "navpoint49",
+    "playOrder": 49,
     "navLabel": "References",
-    "content": "js4wd_ebook-13.xhtml"
+    "content": "references.xhtml"
   },
   {
-    "id": "navpoint11",
-    "playOrder": 11,
+    "id": "navpoint50",
+    "playOrder": 50,
+    "navLabel": "Acknowledgements",
+    "content": "acks.xhtml"
+  },
+  {
+    "id": "navpoint51",
+    "playOrder": 51,
     "navLabel": "Index",
-    "content": "js4wd_ebook-14.xhtml"
+    "content": "index.xhtml"
   },
   {
-    "id": "navpoint12",
-    "playOrder": 12,
-    "navLabel": "About the Author",
-    "content": "js4wd_ebook-15.xhtml"
-  },
-  {
-    "id": "navpoint13",
-    "playOrder": 13,
+    "id": "navpoint52",
+    "playOrder": 52,
     "navLabel": "About A Book Apart",
-    "content": "js4wd_ebook-16.xhtml"
+    "content": "about.xhtml"
+  },
+  {
+    "id": "navpoint53",
+    "playOrder": 53,
+    "navLabel": "Colophon",
+    "content": "about.xhtml#toc_marker-48"
+  },
+  {
+    "id": "navpoint54",
+    "playOrder": 54,
+    "navLabel": "About The Author",
+    "content": "ata.xhtml"
   }
 ]
