@@ -2,5 +2,8 @@
 title: About this Book
 layout: home.njk
 ---
+You don’t get to decide which platform or device your customers use to access your content: *they* do.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Mobile isn’t just smartphones, and it doesn’t necessarily mean you are on the move. It’s a proliferation of devices, platforms, and screensizes — from the tiniest “dumb” phones to the desktop web. How can you be sure that your content will work everywhere, all the time?
+
+Karen McGrane will teach you everything you need to get your content onto mobile devices (and more). You’ll first gather data to help you make the case for a mobile strategy, then learn how to publish flexibly to multiple channels. Along the way, you'll get valuable advice on adapting your workflow to a world of emerging devices, platforms, screen sizes, and resolutions.
